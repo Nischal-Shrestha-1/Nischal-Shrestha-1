@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nischal-shrestha-1&label=Profile%20views&color=0e75b6&style=flat" alt="nischal-shrestha-1" /> </p>
 
-<h1>Nischal Shrestha</h1>
+<h3> 🏆 Nischal Shrestha 🏆 </h3>
 
 - 🌱 I graduated from Fanshawe College in **Mobile Application Development**
 
