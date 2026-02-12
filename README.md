@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nischal-shrestha-1&label=Profile%20views&color=0e75b6&style=flat" alt="nischal-shrestha-1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nischal-shrestha-1" alt="nischal-shrestha-1" /></a> </p>
+<p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=nischal-shrestha-1" alt="nischal-shrestha-1" /></a> </p>
 
 - 🌱 I graduated from Fanshawe College in **Mobile Application Development**
 
