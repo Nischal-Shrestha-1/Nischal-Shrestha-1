@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nischal-shrestha-1" alt="nischal-shrestha-1" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile Application Development**
+- 🌱 I graduated from Fanshawe College in **Mobile Application Development**
 
 - 📫 How to reach me **nis.shrestha.1@gmail.com**
 
